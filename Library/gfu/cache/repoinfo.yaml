@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-11-09T17:32:14.675+03:00
-  initializedAtString: 2021-11-09T11:24:36.216+03:00
+  lastUpdatedAtString: 2021-11-09T17:36:55.179+03:00
+  initializedAtString: 2021-11-09T17:36:09.508+03:00
   currentGitRemote:
     name: origin
     url: https://github.com/Raumer/task-Rogue
